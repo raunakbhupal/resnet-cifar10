@@ -15,6 +15,6 @@ PyTorch 1.0+
 
 fina_model.ipynb - final model, uses SGD optimizer and gives the best accuracy of 93%
 
-DL_MiniProject_SGD_Modular.ipynb - another model using SGD optimizer but with accuracy of 92%
+DL_MiniProject_SGD_Modular.ipynb - another model using SGD optimizer but with accuracy of 92% and also our base model
 
 Rest notebooks are different experiments we conducted for the given problem statement.
