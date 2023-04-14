@@ -17,4 +17,6 @@ fina_model.ipynb - final model, uses SGD optimizer and gives the best accuracy o
 
 DL_MiniProject_SGD_Modular.ipynb - another model using SGD optimizer but with accuracy of 92% and also our base model
 
+DL_MiniProject_Adam_Modular.ipynb and DL_MiniProject_AdaDelta_Modular.ipynb - different variations of our base model with just the change in the optimizer used
+
 Rest notebooks are different experiments we conducted for the given problem statement.
