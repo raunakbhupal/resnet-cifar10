@@ -20,3 +20,7 @@ DL_MiniProject_SGD_Modular.ipynb - another model using SGD optimizer but with ac
 DL_MiniProject_Adam_Modular.ipynb and DL_MiniProject_AdaDelta_Modular.ipynb - different variations of our base model with just the change in the optimizer used
 
 Rest notebooks are different experiments we conducted for the given problem statement.
+
+## Detailed Report
+
+Report can be found here : https://github.com/raunakbhupal/resnet-cifar10/blob/main/DL_mini_project.pdf
